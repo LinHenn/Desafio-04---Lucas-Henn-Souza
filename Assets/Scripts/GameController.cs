@@ -108,12 +108,11 @@ public class GameController : MonoBehaviour
         {
             plat = j.Key,
             Points = j.Average(c => c.points)
-        }).OrderByDescending(j => j.Points);
-
-        foreach (var res in result)
-        {
-            telona.text += "\n\nPlataforma: " + res.plat + "\n\tMedia de pontos: " +res.Points;
-        }
+        }).OrderByDescending(j => j.Points).First();
+        
+        
+        telona.text += "\n\nPlataforma: " + result.plat + "\n\tMedia de pontos: " +result.Points;
+        
     }
 
 

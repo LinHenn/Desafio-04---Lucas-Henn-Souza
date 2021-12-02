@@ -193,7 +193,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Q4
+  m_Text: "Quest\xE3o 4"
 --- !u!222 &67940722
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -272,7 +272,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Q5
+  m_Text: "Quest\xE3o 5"
 --- !u!222 &205934123
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -452,7 +452,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Q6
+  m_Text: "Quest\xE3o 6"
 --- !u!222 &442421328
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -531,7 +531,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Q1
+  m_Text: "Quest\xE3o 1"
 --- !u!222 &505567607
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1226,9 +1226,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Q3
-
-'
+  m_Text: "Quest\xE3o 3\n"
 --- !u!222 &1312290191
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1520,7 +1518,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Q2
+  m_Text: "Quest\xE3o 2"
 --- !u!222 &1725826969
 CanvasRenderer:
   m_ObjectHideFlags: 0
